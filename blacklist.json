@@ -1,0 +1,29 @@
+{
+  "active": {},
+  "history": [
+    {
+      "type": "BLACKLIST",
+      "user": "ddd_nojjang",
+      "id": "1297214516614140040",
+      "time": 1776573483038
+    },
+    {
+      "type": "UNBLACKLIST",
+      "user": "ddd_nojjang",
+      "id": "1297214516614140040",
+      "time": 1776573524602
+    },
+    {
+      "type": "BLACKLIST",
+      "user": "ddd_nojjang",
+      "reason": "야",
+      "time": 1776573791892
+    },
+    {
+      "type": "UNBLACKLIST",
+      "user": "ddd_nojjang",
+      "reason": "재밌음",
+      "time": 1776575280151
+    }
+  ]
+}
